@@ -49,7 +49,7 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 
 - Name: [Ujjwal](ujjwal)
 - Email: [ujjwalbhardwaj679@gmail.com](mailto:your-email@example.com)
-- GitHub: [Ujjwalbhardwaj639](https://github.com/YourUsername)
+- GitHub: [https://github.com/ujjwalbhardwaj639](https://github.com/YourUsername)
 
 You can also [open an issue](https://github.com/ujjwalbhardwaj639/SQL_Banking_project_With_Python/issues) on GitHub for any bug reports or feature requests.
 
