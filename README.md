@@ -45,12 +45,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to me:
+For any questions or suggestions regarding this project, feel free to contact the project owner:
 
-- Name: [Ujjwal](ujjwal)
-- Email: [ujjwalbhardwaj679@gmail.com](mailto:your-email@example.com)
-- GitHub: [https://github.com/ujjwalbhardwaj639](https://github.com/YourUsername)
-
+- Name: Ujjwal Bhardwaj
+- GitHub: [ujjwalbhardwaj639](https://github.com/ujjwalbhardwaj639)
 You can also [open an issue](https://github.com/ujjwalbhardwaj639/SQL_Banking_project_With_Python/issues) on GitHub for any bug reports or feature requests.
 
 I appreciate your interest and contributions to this project!
