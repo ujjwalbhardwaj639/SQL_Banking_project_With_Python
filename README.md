@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions regarding this project, feel free to contact the project owner:
 
-- Name: [Ujjwal](Ujjwal)
+- Name: [Ujjwal](ujjwalbhardwaj@gmail.com)
 - GitHub: [ujjwalbhardwaj639](https://github.com/ujjwalbhardwaj639)
 - Email: ujjwalbhardwaj@gmail.com
 
